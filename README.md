@@ -54,6 +54,10 @@ res <- fabnetsyn_build_plot(
 - `plot_fab_network(node.data, edge.data, palette)` 绘制 ggplot
 - `fabnetsyn_build_plot(...)` 一键式流程（推荐）
 
+![图片说明](exemple_picture/1.0.1.svg)
+![图片说明](exemple_picture/Rplot02.png)
+![图片说明](exemple_picture/species_module_heatmap.png)
+
 ## 许可
 MIT
 
